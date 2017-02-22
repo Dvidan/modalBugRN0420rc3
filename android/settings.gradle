@@ -1,0 +1,3 @@
+rootProject.name = 'modalBugRN0420rc3'
+
+include ':app'
